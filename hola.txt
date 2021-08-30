@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola a todos soy Carolina
+=======
+Hola a todos!!!
+Hola soy Daniel!!!
+>>>>>>> b3e0f0370ba5b1f16f8c6e1a65776d89ea55271c
