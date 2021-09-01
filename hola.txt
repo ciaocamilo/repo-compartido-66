@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 Hola a todos!!!
-
 hola, Saludo desde Pereira. Monica C.
-=======
-<<<<<<< HEAD
 Hola a todos soy Carolina
-=======
-Hola a todos!!!
 Hola soy Daniel!!!
->>>>>>> b3e0f0370ba5b1f16f8c6e1a65776d89ea55271c
->>>>>>> 0d01e7384bb15e9c05876d44725d8fb095098b06
