@@ -1,0 +1,42 @@
+[33mcommit 0d01e7384bb15e9c05876d44725d8fb095098b06[m[33m ([m[1;36mHEAD -> [m[1;32mdesarrollo[m[33m, [m[1;31morigin/desarrollo[m[33m)[m
+Merge: dc18b03 b3e0f03
+Author: nanareyes <dianac.reyesmantilla@gmail.com>
+Date:   Mon Aug 30 08:54:01 2021 -0500
+
+     se incluye saludo
+
+[33mcommit dc18b038c048343174a226431602aebfaa70d336[m
+Author: nanareyes <dianac.reyesmantilla@gmail.com>
+Date:   Mon Aug 30 08:51:18 2021 -0500
+
+    Se incluye saludo al grupo
+
+[33mcommit b3e0f0370ba5b1f16f8c6e1a65776d89ea55271c[m
+Author: Daniel Bernal <bernaldaniel743@gmail.com>
+Date:   Mon Aug 30 08:49:59 2021 -0500
+
+    Agrega soy Daniel
+
+[33mcommit eb7112c32560fe0f85239d27231e1a24a6aba55c[m
+Author: nanareyes <dianac.reyesmantilla@gmail.com>
+Date:   Mon Aug 30 08:37:17 2021 -0500
+
+    Se agrega el hola a todos
+
+[33mcommit eb6f3b3a547e76e6dc4b0e2db6cb3d0dd3aee415[m
+Author: Camilo A <ing_camiloacg@hotmail.com>
+Date:   Mon Aug 30 08:36:51 2021 -0500
+
+    Agrega Hola a todos
+
+[33mcommit 934416d9fc3bdfe719dadae0a04f31f0ca00ab89[m
+Author: Camilo A <ing_camiloacg@hotmail.com>
+Date:   Thu Aug 26 10:02:54 2021 -0500
+
+    Crea hola.txt
+
+[33mcommit 2950d347a07c6ba28d473d8e55179bad9fde9014[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Camilo A <ing_camiloacg@hotmail.com>
+Date:   Thu Aug 26 09:56:54 2021 -0500
+
+    first commit
