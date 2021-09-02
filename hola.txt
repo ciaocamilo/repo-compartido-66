@@ -16,3 +16,5 @@ Hola!! Soy Francy, Saludo Caluroso desde Girardot
 
 Hola Soy Luz Amparo!!
 >>>>>>> 408eb33a8c63691ab3cd2f1c5751b1d5b1913462
+
+!!!Hola compañeros aquí haciendo los ejercicios asincrónicamente!!!
