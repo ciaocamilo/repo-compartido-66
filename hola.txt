@@ -1,20 +1,14 @@
-<<<<<<< HEAD
 
 Hola a todos soy Carolina
 
-=======
->>>>>>> 408eb33a8c63691ab3cd2f1c5751b1d5b1913462
 Hola a todos!!!
 Hola Soy Camilo
 hola, Saludo desde Pereira. Monica C.
 Hola a todos soy Carolina
 Hola soy Daniel!!!
-<<<<<<< HEAD
 Hola!! Soy Francy, Saludo Caluroso desde Girardot
 
-=======
 
 Hola Soy Luz Amparo!!
->>>>>>> 408eb33a8c63691ab3cd2f1c5751b1d5b1913462
 
 !!!Hola compañeros soy Aura, aquí mi ejercicio desde clases asincrónicamente!!!
