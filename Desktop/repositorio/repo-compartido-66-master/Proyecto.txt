@@ -1,0 +1,64 @@
+Tú proyecto!
+REUNIÓN SEMANAL DE SCRUM
+ACTA No. 01
+2/09/2021, 10 am
+
+
+SPRINT No. __1_        SEMANA No. __1_
+
+
+
+ORDEN DEL DÍA
+
+
+1.	Acuerdos sobre dinámica de trabajo
+	
+2.	Seguimiento a tareas
+	
+3.	Dificultades presentadas
+	
+4.	Varios
+
+
+
+DESARROLLO DEL ORDEN DEL DÍA
+
+
+1. Trabajar en forma virtual vía drive, Hangouts y Whatsapp, utilización de github(Scrum Master), falta herramienta de implementación de diagramas
+
+2.(Ver Plan del Sprint, Punto 1,2,3,4.)
+
+3. Falta agregar en la pila que le falta a los demás miembros ( solo el desarrollo)
+Fernan Pendiente
+
+
+4. Ayuda para terminar las actividades de estudiante1 -> estudiante2, estudiante3, estudiante4
+
+
+
+COMPROMISOS
+
+
+COMPROMISO	RESPONSABLE	FECHA
+ Terminar pila de sprint	Estudiante 1	 
+            Fernan  Horas Caso de uso
+	Estudiante 2	1/09/2021
+ Configuración de repositorio (github)
+	Estudiante 3	 1/09/2021
+ 	 	 
+ 	 	 
+
+
+
+ASISTENTES
+
+Estudiante 1 (Scrum Master)
+Estudiante 2 (Product owner)
+Estudiante 3 (Development Team)
+Estudiante 4 (Development Team)
+Estudiante 5 (Development Team)
+Estudiante 6 (Development Team)
+
+
+
+
